@@ -1,4 +1,4 @@
-# Ask the user if they have played before
+# Ask the user if they have played before 
 show_instructions = input("have you played this game "
                           "before? ") .lower()
 
