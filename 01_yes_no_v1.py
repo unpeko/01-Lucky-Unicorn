@@ -10,10 +10,10 @@ elif show_instructions == "y":
     print("program continues")
 
 elif show_instructions == "no":
-    print("program continues")
+    print("display instructions")
 
 elif show_instructions == "n":
-    print("program continues")
+    print("display instructions")
 
 # If they say no, output 'display instructions'
 else:
