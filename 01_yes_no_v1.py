@@ -18,4 +18,3 @@ elif show_instructions == "n":
 # If they say no, output 'display instructions'
 else:
     print("please answer yes/no")
-
